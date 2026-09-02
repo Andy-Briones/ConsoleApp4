@@ -1,0 +1,7 @@
+F:\Ciclo 5\C#\ConsoleApp4\ConsoleApp4\bin\Release\ConsoleApp4.exe.config
+F:\Ciclo 5\C#\ConsoleApp4\ConsoleApp4\bin\Release\ConsoleApp4.exe
+F:\Ciclo 5\C#\ConsoleApp4\ConsoleApp4\bin\Release\ConsoleApp4.pdb
+F:\Ciclo 5\C#\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.csproj.AssemblyReference.cache
+F:\Ciclo 5\C#\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.csproj.CoreCompileInputs.cache
+F:\Ciclo 5\C#\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.exe
+F:\Ciclo 5\C#\ConsoleApp4\ConsoleApp4\obj\Release\ConsoleApp4.pdb
